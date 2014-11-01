@@ -9,3 +9,7 @@ Keep record of marked resources.
 ### Read
 - [toRead](./file/toRead.md), [doneRead](./file/doneRead.md)
 
+
+### Summary
+- [TED](./file/doneTED.md)
+
