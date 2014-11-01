@@ -7,5 +7,5 @@ Keep record of marked resources.
 - [toWatch](./file/toWatch.md), [doneWatch](./file/doneWatch.md)
 
 ### Read
-- [toRead](./file/toRead.md), [doneRead.md](./file/doneRead.md)
+- [toRead](./file/toRead.md), [doneRead](./file/doneRead.md)
 
