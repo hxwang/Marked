@@ -1,4 +1,4 @@
-Marked
+Marked Resources
 ======
 
 Keep record of marked resources.
