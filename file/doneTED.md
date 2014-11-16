@@ -16,4 +16,4 @@
 | [The optimism bias](http://www.ted.com/talks/tali_sharot_the_optimism_bias)| *[Tali Sharot](http://www.ted.com/speakers/tali_sharot)*| Mental| ***| High expectation brings more happiniess| 11/11/2014|
 | [The Rise of Personal Robots](http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots?)|*[Cynthia Breazeal](http://www.ted.com/speakers/cynthia_breazeal)*| Tech| *| robots make more social | 11/13/2014|
 | [Looks aren't everything. Believe me, I'm a model.](http://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model)| *[Cameron Russell](http://www.ted.com/speakers/cameron_russell)*|Mental| ** | what you have is not what you have| 11/13/2014|
-|[The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts)| *[Susan Cain](http://www.ted.com/speakers/susan_cain)*| ****| bring out and show| 11/15/2014|
+|[The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts)| *[Susan Cain](http://www.ted.com/speakers/susan_cain)*| Mental|****| bring out and show| 11/15/2014|
