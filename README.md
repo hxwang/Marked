@@ -12,6 +12,6 @@ Keep record of marked resources.
 ### RSS
 - [website](./file/web.md)
 
-### Summary
+### Records
 - [TED](./file/doneTED.md)
 
